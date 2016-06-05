@@ -1,0 +1,76 @@
+<skin>
+<colors>
+		<!-- transparency -->
+		<color name="background" value="#30000000"/>
+		<color name="background_light" value="#70000000"/>
+		<color name="transparent" value="#ffffffff"/>
+		<color name="red_transparent" value="#99f23d21"/>
+		<color name="blue_transparent" value="#200064c7"/>
+		<color name="scrollbar_color" value="#aaffffff"/>
+		<!-- no transparency -->
+		<color name="foreground" value="#00ffffff"/>
+		<color name="red" value="#00f23d21"/>
+		<color name="green" value="#00389416"/>
+		<color name="green_light" value="#00008d68"/>
+		<color name="yellow" value="#00e6dd2b"/>
+		<color name="yellow_light" value="#00d0dda8"/>
+		<color name="blue" value="#000064c7"/>
+		<color name="blue_light" value="#00879ce1"/>
+		<color name="orange" value="#00ffc000"/>
+		<color name="purple_vu" value="#009d1bae"/>
+		<color name="white" value="#00ffffff"/>
+		<color name="black" value="#00000000"/>
+		<color name="grey" value="#00555555"/>
+		<color name="grey_light" value="#00999999"/>
+		<color name="grey_dark" value="#00484850"/>
+		<!-- mapped colors -->
+		<color name="background_right" value="background"/>
+		<color name="background_left" value="background"/>
+		<color name="background_header" value="background_light"/>
+		<color name="background_footer" value="background_light"/>
+		<color name="background_footer_button" value="background_footer"/>
+		<color name="background_infobar" value="background"/>
+		<color name="button_red" value="red"/>
+		<color name="button_green" value="green"/>
+		<color name="button_yellow" value="yellow"/>
+		<color name="button_blue" value="blue"/>
+		<color name="secondFG" value="red"/>
+		<color name="selectedBG" value="background"/>
+		<color name="selectedFG" value="purple_vu"/>
+		<color name="TitleBG" value="background_header"/>
+		<color name="transpBlack" value="background_left"/>
+		<color name="dark" value="grey_dark"/>
+		<color name="menu" value="foreground"/>
+	</colors>
+<!-- Window -->
+	<windowstyle id="0" type="skinned">
+		<title font="Regular;22" offset="20,12"/>
+		<color color="background" name="Background"/>
+		<color color="foreground" name="LabelForeground"/>
+		<color color="background" name="ListboxBackground"/>
+		<color color="foreground" name="ListboxForeground"/>
+		<color color="selectedBG" name="ListboxSelectedBackground"/>
+		<color color="selectedFG" name="ListboxSelectedForeground"/>
+		<color color="#040a0aa0" name="ListboxMarkedBackground"/>
+		<color color="#00f0f0f0" name="ListboxMarkedForeground"/>
+		<color color="#04a00a0a" name="ListboxMarkedAndSelectedBackground"/>
+		<color color="#00f0f0f0" name="ListboxMarkedAndSelectedForeground"/>
+		<color color="foreground" name="WindowTitleForeground"/>
+		<color color="TitleBG" name="WindowTitleBackground"/>
+	</windowstyle>
+<!-- Display -->
+	<windowstyle id="1" type="skinned">
+		<color color="#000000" name="Background"/>
+		<color color="#ffffff" name="LabelForeground"/>
+		<color color="#000000" name="ListboxBackground"/>
+		<color color="#ffffff" name="ListboxForeground"/>
+		<color color="#000000" name="ListboxSelectedBackground"/>
+		<color color="#ffffff" name="ListboxSelectedForeground"/>
+		<color color="#000000" name="ListboxMarkedBackground"/>
+		<color color="#ffffff" name="ListboxMarkedForeground"/>
+		<color color="#000000" name="ListboxMarkedAndSelectedBackground"/>
+		<color color="#ffffff" name="ListboxMarkedAndSelectedForeground"/>
+		<color color="#ffffff" name="WindowTitleForeground"/>
+		<color color="#000000" name="WindowTitleBackground"/>
+	</windowstyle>
+</skin>

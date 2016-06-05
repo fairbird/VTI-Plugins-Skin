@@ -1,0 +1,85 @@
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Package version\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-16 19:59+0100\n"
+"PO-Revision-Date: 2012-09-01 04:53+0100\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Action for inactivity:"
+msgstr "Actie voor inactiviteit (min):"
+
+msgid "AutoShutDown"
+msgstr "AutoShutDown"
+
+msgid "AutoShutDown Setup"
+msgstr "AutoShutDown instellingen"
+
+msgid "AutoShutDown settings"
+msgstr "AutoShutDown instellingen"
+
+#, python-format
+msgid "AutoShutDown: %s ?"
+msgstr "AutoShutDown: %s ?"
+
+msgid "Deepstandby"
+msgstr "Deep stand-by"
+
+msgid "Default"
+msgstr "Default"
+
+msgid "Disable shutdown in EPGRefresh time span:"
+msgstr "Shutdown tijdens EPGRefresh-periode uitschakelen:"
+
+msgid "Enable AutoShutDown:"
+msgstr "AutoShutDown inschakelen:"
+
+msgid "Enable action after inactivity:"
+msgstr "Actie voor inactiviteit inschakelen:"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "Go to standby"
+msgstr "Ga naar stand-by"
+
+msgid "Message timeout (sec):"
+msgstr "Bericht timeout (sec):"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Power off STB"
+msgstr "Ontvanger uitschakelen"
+
+msgid "Really close without saving settings?"
+msgstr "Echt afsluiten zonder op te slaan?"
+
+msgid "Reset AutoShutDown settings to defaults?"
+msgstr "AutoShutDown instellingen terug naar defaults?"
+
+msgid "Show in Extensions/Plugins:"
+msgstr "Toon in Extensies/Plugins:"
+
+msgid "Show message before inactivity action:"
+msgstr "Toon bericht voor inactiviteit actie:"
+
+msgid "Standby"
+msgstr "Standby"
+
+msgid "Time for inactivity (min):"
+msgstr "Tijd voor inactiviteit (min):"
+
+msgid "Time in standby for power off (min):"
+msgstr "Tijd in standby voor uitschakelen (min):"
