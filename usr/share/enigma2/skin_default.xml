@@ -160,6 +160,10 @@
 	<screen name="StreamingClientsInfo" position="center,center" size="540,490" title="Streaming clients info">
 		<widget name="ScrollLabel" font="Regular;20" position="0,00" size="540,490" zPosition="2" halign="left"/>
 	</screen>
+	<!-- Buffer Indicator -->
+        <screen name="BufferIndicator" title="" position="c-150,45" size="300,53" backgroundColor="transparent" flags="wfNoBorder" zPosition="100">
+                <widget name="status" position="0,0" size="300,53" backgroundColor="transparent" transparent="1" font="Regular;39" borderColor="black" borderWidth="2" valign="center" halign="center"/>
+        </screen>
 	<!-- Bouquet selector -->
 	<screen name="BouquetSelector" position="center,center" size="300,240" title="Choose bouquet">
 		<widget name="menu" position="10,10" size="290,225" scrollbarMode="showOnDemand" />
